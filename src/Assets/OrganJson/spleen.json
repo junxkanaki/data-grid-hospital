@@ -1,0 +1,16 @@
+{
+  "name": "spleen",
+  "label": "SPLEEN",
+  "cols": [
+    {
+      "name": "ES",
+      "label": "ES",
+      "type": "checkbox"
+    },
+    {
+      "name": "other",
+      "label": "OTHER",
+      "type": "text"
+    }
+  ]
+}

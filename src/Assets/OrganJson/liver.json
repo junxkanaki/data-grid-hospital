@@ -1,0 +1,81 @@
+{
+  "name": "liver",
+  "label": "LIVER",
+  "cols": [
+    {
+      "name": "FLD",
+      "label": "FLD",
+      "type": "radio",
+      "options": [
+        { "label": "1", "value": 1 },
+        { "label": "2", "value": 2 },
+        { "label": "3", "value": 3 }
+      ]
+    },
+    {
+      "name": "SLPL",
+      "label": "SLPL",
+      "type": "checkbox"
+    },
+    {
+      "name": "LPL",
+      "label": "LPL",
+      "type": "checkbox"
+    },
+    {
+      "name": "LC",
+      "label": "LC",
+      "type": "checkbox"
+    },
+    {
+      "name": "PLD",
+      "label": "PLD",
+      "type": "radio",
+      "options": [
+        { "label": "LEFT", "value": "left" },
+        { "label": "RIGHT", "value": "right" }
+      ]
+    },
+    {
+      "name": "HEM",
+      "label": "HEM",
+      "type": "radio",
+      "options": [
+        { "label": "LEFT", "value": "left" },
+        { "label": "RIGHT", "value": "right" }
+      ]
+    },
+    {
+      "name": "IC",
+      "label": "IC",
+      "type": "radio",
+      "options": [
+        { "label": "LEFT", "value": "left" },
+        { "label": "RIGHT", "value": "right" }
+      ]
+    },
+    {
+      "name": "HEP",
+      "label": "HEP",
+      "type": "radio",
+      "options": [
+        { "label": "LEFT", "value": "left" },
+        { "label": "RIGHT", "value": "right" }
+      ]
+    },
+    {
+      "name": "HEPU",
+      "label": "HEPU",
+      "type": "radio",
+      "options": [
+        { "label": "LEFT", "value": "left" },
+        { "label": "RIGHT", "value": "right" }
+      ]
+    },
+    {
+      "name": "other",
+      "label": "OTHER",
+      "type": "text"
+    }
+  ]
+}

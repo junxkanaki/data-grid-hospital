@@ -1,0 +1,21 @@
+{
+  "name": "suggestion",
+  "label": "SUGGES",
+  "cols": [
+    {
+      "name": "datetime",
+      "label": "MACHANA",
+      "type": "select"
+    },
+    {
+      "name": "examination",
+      "label": "PIMWA",
+      "type": "checkbox"
+    },
+    {
+      "name": "other",
+      "label": "OTHER",
+      "type": "text"
+    }
+  ]
+}

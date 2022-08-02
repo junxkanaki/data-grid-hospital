@@ -1,0 +1,29 @@
+{
+  "name": "kidney",
+  "label": "KIDNY",
+  "cols": [
+    {
+      "name": "KS",
+      "label": "KS",
+      "type": "radio",
+      "options": [
+        { "label": "LEFT", "value": "left" },
+        { "label": "RIGHT", "value": "right" }
+      ]
+    },
+    {
+      "name": "KC",
+      "label": "KC",
+      "type": "radio",
+      "options": [
+        { "label": "LEFT", "value": "left" },
+        { "label": "RIGHT", "value": "right" }
+      ]
+    },
+    {
+      "name": "other",
+      "label": "OTHER",
+      "type": "text"
+    }
+  ]
+}

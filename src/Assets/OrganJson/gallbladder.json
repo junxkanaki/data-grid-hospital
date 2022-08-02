@@ -1,0 +1,29 @@
+{
+  "name": "gallbladder",
+  "label": "gallbladder",
+  "cols": [
+    {
+      "name": "CL",
+      "label": "CL",
+      "type": "radio",
+      "options": [
+        { "label": "SINGLE", "value": "single" },
+        { "label": "MULTI", "value": "multiple" }
+      ]
+    },
+    {
+      "name": "GP",
+      "label": "GP",
+      "type": "radio",
+      "options": [
+        { "label": "SINGLE", "value": "single" },
+        { "label": "MULTI", "value": "multiple" }
+      ]
+    },
+    {
+      "name": "other",
+      "label": "OTHER",
+      "type": "text"
+    }
+  ]
+}
